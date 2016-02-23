@@ -50,6 +50,6 @@
     "grunt-contrib-copy": "git+https://github.com/gpt-modules/grunt-contrib-copy.git"
   },
    "scripts": {
-     "start": "node ./bin/www"
+     "start": "node ./js/app.js"
  }
 }
