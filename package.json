@@ -48,5 +48,8 @@
     "grunt-contrib-watch": "git+https://github.com/gpt-modules/grunt-contrib-watch.git",
     "grunt-contrib-compass": "git+https://github.com/gpt-modules/grunt-contrib-compass.git",
     "grunt-contrib-copy": "git+https://github.com/gpt-modules/grunt-contrib-copy.git"
-  }
+  },
+  "scripts": {
+  "start": "node app.js"
+}
 }
